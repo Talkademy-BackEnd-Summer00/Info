@@ -1,6 +1,6 @@
 <div dir="rtl" align='right'>
 
-# دوره کارآموزی بک اند [تاکادمی])(https://github.com/Talkademy)
+# دوره کارآموزی بک اند [تاکادمی](https://github.com/Talkademy)
 
 به دوره کارآموزی بک اند تاکادمی خوش آمدید.
  
